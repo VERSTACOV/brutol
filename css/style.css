@@ -959,7 +959,7 @@ body._lock {
 
 @media (min-width: 991px) {
   .slick-dots {
-    bottom: 7%;
+    bottom: -10%;
   }
 }
 
